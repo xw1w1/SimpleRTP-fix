@@ -1,0 +1,6 @@
+name: "SimpleRTP-Fix"
+description: "SimpleRTP-Fix"
+version: "1.0.0"
+main: "ru.epserv.turbotaliz.RandomTeleportPlugin"
+api-version: "1.21"
+author: "Turbotaliz"
